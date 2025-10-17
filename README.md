@@ -17,14 +17,14 @@
 
 ---
 
-### ⚔️ About Me
+### 🚶‍♂️ About Me
 
 - 🕹️ **Currently Playing With:** Django + React + Cloud  
 - 🧠 **Leveling Up In:** Backend Wizardry & System Design  
 - 💡 **Power Moves:** Fullstack Development, UI/UX, API Crafting  
 - 🚀 **Mission:** Build apps that look 🔥 and perform ⚙️ like a beast  
 - 📫 **Respawn Point:** [LinkedIn](https://linkedin.com/in/mohammed-syfudeen-239416292)  
-- 🎯 **Fun Fact:** My debugger cries more than I do 😎  
+- 🙂 **Fun Fact:** My debugger cries more than I do 😎  
 
 ---
 
