@@ -47,13 +47,7 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 ## 🤝 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-syfudeen-239416292)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/syfudeen)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/syfudeen)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/syfudeen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
+<img width="96" height="96" src="https://img.icons8.com/color/96/linkedin.png" alt="linkedin"/><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-logo.png" alt="instagram-logo"/><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-filled-tal-revivo"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
@@ -121,12 +115,9 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 | Technology | Proficiency | Experience |
 |:-----------|:------------|:-----------|
 | **Python** | ⭐⭐⭐⭐⭐ | Advanced - Backend Development, Automation |
-| **Django** | ⭐⭐⭐⭐☆ | Intermediate - REST APIs, ORM, Authentication |
+| **React Js** | ⭐⭐⭐⭐☆ | Intermediate - Component Architecture, Hooks |
 | **JavaScript** | ⭐⭐⭐⭐☆ | Intermediate - ES6+, Async Programming |
-| **React** | ⭐⭐⭐⭐☆ | Intermediate - Component Architecture, Hooks |
 | **MySQL** | ⭐⭐⭐⭐☆ | Intermediate - Database Design, Optimization |
-| **MongoDB** | ⭐⭐⭐☆☆ | Foundational - NoSQL, Document Databases |
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
