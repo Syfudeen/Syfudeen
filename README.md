@@ -21,8 +21,6 @@
 
 ## 📖 About Me
 
-<img align="right" alt="Developer" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
 Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passion for creating elegant solutions to complex problems. My journey in technology is driven by curiosity and a commitment to continuous learning.
 
 ### 🎯 Current Focus
@@ -57,28 +55,28 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 <div align="center">
 
 ### Frontend Development
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/office/40/react.png" alt="react"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/office/40/react.png" alt="react"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
 
 ### Backend Development
-<img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/nolan/64/django.png" alt="django"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
-<img width="48" height="48" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/nolan/64/django.png" alt="django"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+<img width="96" height="96" src="https://img.icons8.com/nolan/64/express-js.png" alt="express-js"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 
 ### Database Management
-<img width="48" height="48" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/mysql-logo.png" alt="mysql-logo"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
 
 ### Tools & Technologies
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/fluency/48/canva-app.png" alt="canva-app"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="96" height="96" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="96" height="96" src="https://img.icons8.com/fluency/48/canva-app.png" alt="canva-app"/>
 
 </div>
 
