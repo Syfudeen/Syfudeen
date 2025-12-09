@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Elegant Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=250&section=header&text=Mohammed%20Syfudeen%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FE7A36&height=250&section=header&text=Mohammed%20Syfudeen%20S&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=51&descSize=18" />
 
 <!-- Professional Typing Animation -->
 <p align="center">
