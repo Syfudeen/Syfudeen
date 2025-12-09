@@ -1,5 +1,4 @@
 # 👋 Welcome to My Digital Space
-
 <div align="center">
 
 <!-- Elegant Header -->
@@ -13,8 +12,10 @@
 </p>
 
 </div>
+<br>
+<br>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 📖 About Me
 
@@ -39,7 +40,7 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 
 <br clear="right"/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🤝 Let's Connect
 
@@ -53,7 +54,7 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🛠️ Technical Expertise
 
@@ -86,7 +87,7 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 📊 GitHub Statistics
 
@@ -110,7 +111,7 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 💡 Technical Proficiency
 
@@ -127,7 +128,7 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🎯 Featured Projects
 
@@ -138,21 +139,21 @@ Hello! I'm **Mohammed Syfudeen S**, a dedicated software developer with a passio
 
 A scalable REST API backend with JWT authentication, caching strategies, and optimized database queries. Implemented role-based access control and comprehensive logging.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ### 💻 Interactive Dashboard
 **Technologies:** React • Chart.js • Tailwind CSS
 
 Modern admin dashboard featuring real-time analytics, responsive design, and intuitive data visualizations. Built with component reusability and performance optimization in mind.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ### 🔗 API Gateway Service
 **Technologies:** Node.js • Express 
 
 Microservices gateway handling load balancing, request routing, and API versioning. Integrated health checks and circuit breaker patterns for resilience.
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ### 🎨 UI Component Library
 **Technologies:** React • TypeScript • Storybook
@@ -182,7 +183,7 @@ graph LR
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 💼 Professional Skills
 
@@ -227,7 +228,7 @@ graph LR
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 📫 Get In Touch
 
@@ -250,7 +251,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 📊 Profile Analytics
 
@@ -262,7 +263,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 
 <br/>
@@ -271,7 +272,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 <div align="center">
 
